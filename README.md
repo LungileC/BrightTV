@@ -4,7 +4,7 @@
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-Academic-blue)
-![Made by](https://img.shields.io/badge/Author-Thembi%20Mkhwanazi-purple)
+![Made by](https://img.shields.io/badge/Author-Lungile%20Chirwa-purple)
 
 ---
 
